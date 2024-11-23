@@ -1,0 +1,97 @@
+
+.flex-container > div {
+  color: #636060;
+  font-size: 17px;
+  font-weight: 400;
+  margin-top: 33px;
+  margin-right: 78px;
+  font-family: "Roboto", sans-serif;
+}
+.flex-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  justify-content: space;
+}
+.picture {
+  background-image: url(../image/img1.jpg);
+  display: flex;
+  flex-direction: column;
+  width: 100vw;
+  height: 606px;
+  justify-content: center;
+  align-items: center;
+  background-repeat: no-repeat;
+}
+.greece {
+  position: absolute;
+  font-size: 79px;
+  font-weight: 700;
+  color: #ffffff;
+  display: inline-block;
+}
+.box {
+  font-size: 19px;
+  font-weight: 400;
+  color: #ffffff;
+  margin-top: 140px;
+}
+.main {
+  display: inline-block;
+  margin-top: 31px;
+}
+.text {
+  display: inline-block;
+  display: flex;
+  flex-direction: column;
+  font-family: "Roboto", sans-serif;
+  margin: 100px;
+  margin-right: 83px;
+}
+.big {
+  display: flex;
+  flex-direction: row;
+}
+.discover {
+  font-size: 17px;
+  font-weight: 400;
+  color: #636060;
+  display: inline-block;
+  margin-bottom: 9px;
+}
+.discover2 {
+  font-size: 28px;
+  font-weight: 400;
+  color: #010101;
+  display: inline-block;
+  margin-bottom: 37px;
+}
+.discover3 {
+  font-size: 20px;
+  font-weight: 400;
+  color: #636060;
+  display: inline-block;
+  width: 240px;
+}
+.images {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  margin-top: 84px;
+}
+.tour {
+  color: #343232;
+  font-size: 19px ;
+  font-family: "Roboto", sans-serif;
+  font-weight:400 ;
+  margin-top: 23px;
+  margin-bottom: 9px;
+}
+.visit {
+  width: 299px;
+  color:#636060;
+  font-size:18px ;
+  font-weight: 400
+ font-family: "Roboto", sans-serif ;
+  margin-bottom: 56px;
+}
